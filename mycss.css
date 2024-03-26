@@ -1,0 +1,44 @@
+.action-button {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 6px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #f2f2f2;
+}
+.action-button:hover {
+    background-color: #ddd;
+}
+.button-icon {
+    margin-right: 5px; 
+    color: blue; 
+}
+
+.save-button {
+    background-color: #28a745; 
+    color: white; 
+}
+.cancel-button {
+    background-color: #dc3545; 
+    color: white; 
+}
+.button-icon {
+    margin-right: 5px; 
+}
+
+.update-button {
+    background-color: #007bff; 
+    color: white; 
+}
+.delete-button {
+    background-color: #dc3545; 
+    color: white; 
+}
+.cancel-button {
+    background-color: #6c757d; 
+    color: white; 
+}
+.button-icon {
+    margin-right: 5px; 
+    color: white;  
+}
